@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class AssassinMain {
+public class AssassinsCreedMain {
     public static void main(String[] args) throws FileNotFoundException {
         // prompt for file name
         Scanner console = new Scanner(System.in);
